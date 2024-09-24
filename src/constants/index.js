@@ -262,7 +262,7 @@ export const navLinks = [
       name: 'Ethnus Codemithra',
       pos: 'Full Stack Web Developer',
       duration: 'Aug 2023 - Nov 2023',
-      title: "Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
+      title: "Completed a hands-on web development internship where I contributed to designing and building dynamic, user-friendly websites and applications using modern technologies.",
       icon: '/assets/framer.svg',
       animation: 'victory',
     },
