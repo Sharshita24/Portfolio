@@ -21,7 +21,7 @@ const Contact = () => {
     setLoading(true);
 
     emailjs
-      .send('service_9dg4ln4',
+      .send('service_q2iyiai',
         import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
         {
           from_name: form.name,
