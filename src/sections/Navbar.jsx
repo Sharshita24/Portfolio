@@ -35,7 +35,7 @@ const Navbar = () => {
             </div>
         </div>
 
-// for mobile devices and small screen
+
         <div className={`nav-sidebar ${isOpen ? 'max-h-screen' : 'max-h-0'}`}>
         <nav className="p-5">
           <NavItems onClick={closeMenu} />
